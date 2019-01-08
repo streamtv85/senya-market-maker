@@ -1,4 +1,4 @@
-# BitMEX Market Maker
+# Senya Market Maker
 
 This is a sample market making bot for use with [BitMEX](https://www.bitmex.com).
 
